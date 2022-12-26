@@ -1,0 +1,34 @@
+#Navbar {
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background-color: #d50000;
+  color: white;
+}
+
+#jumbotron {
+  background-color: #ff5031ab;
+  padding-top: 6rem;
+}
+
+#about {
+  padding-top: 5rem;
+}
+
+#gallery {
+  background-color: #ff5031ab;
+  padding-top: 5rem;
+}
+
+#contact {
+  padding-top: 5rem;
+}
+
+#button {
+  background-color: #d50000;
+  color: white;
+}
+
+
+
+
+
